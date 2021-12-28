@@ -1,0 +1,5 @@
+import random
+#randomを利用するにはimportが必要
+n=random.randint(1,6)
+#()でくくった数字の最大値と最小値も込みでランダムに表示される。randomは言語によって含む範囲が変わるので注意が必要。
+print(n)
