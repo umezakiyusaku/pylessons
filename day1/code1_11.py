@@ -1,0 +1,9 @@
+age=22
+print('梅﨑さんの今年の年齢は')
+print(age)
+age=age+2
+print('梅﨑さんの再来年の年齢は')
+print(age)
+age+=1
+print('梅﨑さんの来年の年齢は')
+print(age)
